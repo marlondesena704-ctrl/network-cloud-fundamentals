@@ -24,52 +24,6 @@ que cobre conceitos básicos de hardware e sistemas.
 
 ---
 
-# Estrutura do projeto
-
-```
-network-cloud-fundamentals
-│
-├── README.md
-│
-├── infrastructure
-│ ├── active-directory.md
-│ ├── active-directory-setup.md
-│ ├── troubleshooting-method.md
-│ └── history-of-computing.md
-│
-├── networking
-│ ├── network-fundamentals.md
-│ ├── tcp-vs-udp.md
-│ ├── gateway.md
-│ ├── switch.md
-│ ├── proxy-server.md
-│ ├── vpn.md
-│ ├── dns.md
-│ ├── nat.md
-│ └── isp.md
-│
-├── cloud
-│ ├── cloud-computing.md
-│ ├── cloud-models.md
-│ └── iot.md
-│
-├── systems
-│ ├── linux.md
-│ ├── operating-systems.md
-│ ├── os-types.md
-│ ├── time-sharing.md
-│ ├── windows-users-groups.md
-│ └── windows-task-manager.md
-│
-└── security
-├── malware.md
-└── ransomware.md
-
-```
-
-
----
-
 # Objetivo
 
 Organizar e documentar o aprendizado sobre áreas essenciais da tecnologia da informação:

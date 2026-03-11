@@ -1,0 +1,51 @@
+# Tipos de Sistemas Operacionais
+
+Sistemas operacionais podem ser classificados de acordo com suas funcionalidades.
+
+## Monotarefa
+
+Executa apenas uma tarefa por vez.
+
+Exemplo:
+
+- sistemas antigos como MS-DOS.
+
+## Multitarefa
+
+Permite executar vários programas ao mesmo tempo.
+
+Exemplo:
+
+- Windows
+- Linux
+- macOS
+
+## Multiusuário
+
+Permite que vários usuários utilizem o sistema simultaneamente.
+
+Comum em servidores.
+
+## Multiprocessamento
+
+Permite utilizar múltiplos processadores ou múltiplos núcleos de CPU.
+
+Melhora o desempenho e a execução de tarefas paralelas.
+
+## Sistemas embarcados
+
+Utilizados em dispositivos específicos como:
+
+- roteadores
+- equipamentos industriais
+- dispositivos IoT
+
+## Sistemas de tempo real
+
+Projetados para responder rapidamente a eventos críticos.
+
+Utilizados em:
+
+- sistemas industriais
+- controle de máquinas
+- aeronaves

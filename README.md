@@ -1,4 +1,4 @@
-# Network & Cloud Fundamentals
+# 🌐 Network & Cloud Fundamentals
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/marlondesena704-ctrl/network-cloud-fundamentals)
 ![GitHub last commit](https://img.shields.io/github/last-commit/marlondesena704-ctrl/network-cloud-fundamentals)
@@ -12,41 +12,50 @@
 
 ---
 
-Este repositório documenta meus estudos sobre **redes de computadores, infraestrutura de TI, cloud computing e segurança**.
+## 📖 Sobre o projeto
 
-O objetivo é consolidar conhecimentos fundamentais utilizados em ambientes profissionais de tecnologia.
+Este repositório documenta meus estudos sobre **redes de computadores, infraestrutura de TI, cloud computing e segurança da informação**.
 
-Este projeto complementa o repositório:
+O objetivo é consolidar conceitos fundamentais utilizados no dia a dia de profissionais de tecnologia.
 
-**computer-fundamentals**
+Este projeto funciona como **continuação do repositório**:
 
-que cobre conceitos básicos de hardware e sistemas.
+➡️ **computer-fundamentals**
+
+que aborda fundamentos de hardware e sistemas.
 
 ---
 
-# Objetivo
+# 🎯 Objetivo
 
-Organizar e documentar o aprendizado sobre áreas essenciais da tecnologia da informação:
+Organizar e documentar conhecimentos essenciais da área de tecnologia da informação.
 
-- Redes de computadores
-- Infraestrutura de TI
-- Cloud computing
-- Segurança da informação
-- Sistemas operacionais
+Os conteúdos abordados neste repositório incluem:
 
-Esses conceitos são fundamentais para profissionais que atuam em:
+- 🌐 Redes de computadores
+- 🏢 Infraestrutura de TI
+- ☁️ Cloud computing
+- 🔐 Segurança da informação
+- 🖥 Sistemas operacionais
+
+Esses conceitos são amplamente utilizados em áreas como:
 
 - Cloud Engineering
 - DevOps
 - Infraestrutura
 - Suporte técnico
-- Redes
+- Administração de redes
 
 ---
 
-# Principais temas estudados
 
-## Redes
+Cada diretório contém **documentação em Markdown com resumos detalhados dos temas estudados**.
+
+---
+
+# 🌐 Redes de Computadores
+
+Principais conceitos estudados:
 
 - TCP vs UDP
 - DNS
@@ -55,57 +64,100 @@ Esses conceitos são fundamentais para profissionais que atuam em:
 - Switch
 - Proxy
 - VPN
-- Provedores de Internet
+- Internet Service Providers (ISP)
 
-## Infraestrutura
+Esses conceitos são fundamentais para compreender **como dispositivos se comunicam em redes locais e na internet**.
+
+---
+
+# 🏢 Infraestrutura de TI
+
+Conteúdos relacionados à administração de redes corporativas.
+
+Principais tópicos:
 
 - Active Directory
 - Domain Controller
 - Gerenciamento de usuários
-- Administração de redes corporativas
+- Administração de redes Windows
 
-## Cloud
+Esses conceitos são amplamente utilizados em ambientes empresariais.
 
-- Computação em nuvem
-- Modelos de cloud
-- Internet das Coisas
+---
 
-## Sistemas
+# ☁️ Cloud Computing
+
+Estudo dos principais conceitos de computação em nuvem.
+
+Tópicos abordados:
+
+- Conceito de Cloud Computing
+- Modelos de serviço
+- Infraestrutura em nuvem
+- Internet das Coisas (IoT)
+
+Essas tecnologias são fundamentais para **infraestruturas modernas de aplicações e serviços online**.
+
+---
+
+# 🖥 Sistemas Operacionais
+
+Estudo dos conceitos relacionados ao funcionamento de sistemas operacionais.
+
+Inclui:
 
 - Linux
-- Sistemas operacionais
 - Gerenciamento de processos
 - Controle de usuários
+- Estrutura de sistemas
 
-## Segurança
+Esses conhecimentos são essenciais para **administração de servidores e infraestrutura de TI**.
+
+---
+
+# 🔐 Segurança da Informação
+
+Conceitos básicos de proteção de sistemas e redes.
+
+Principais temas:
 
 - Malware
 - Ransomware
-- Conceitos básicos de proteção de sistemas
+- Boas práticas de segurança
+- Proteção de sistemas
+
+Esses conceitos ajudam a compreender **ameaças digitais e mecanismos de defesa**.
 
 ---
 
-# Motivação
+# 🚀 Motivação
 
-Este repositório faz parte da minha jornada de aprendizado em tecnologia e infraestrutura.
+Este repositório faz parte da minha jornada de aprendizado em tecnologia.
 
-O objetivo é construir uma base sólida de conhecimentos que são utilizados no dia a dia de profissionais de TI.
+O objetivo é construir uma base sólida de conhecimento nas áreas de:
+
+- redes
+- infraestrutura
+- cloud computing
+- segurança da informação
 
 ---
 
-# Repositório complementar
+# 🔗 Repositório complementar
 
 Este projeto complementa o repositório:
 
-**computer-fundamentals**
+## 🖥 computer-fundamentals
 
-que aborda:
+que aborda temas como:
 
 - Hardware
 - Montagem de computadores
 - BIOS e UEFI
-- RAM
+- Memória RAM
 - Armazenamento
 - Troubleshooting
+
+Juntos, esses dois repositórios formam uma **base completa de fundamentos de tecnologia da informação**.
 
 
